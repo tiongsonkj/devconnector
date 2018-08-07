@@ -1,7 +1,17 @@
-npm run dev to run the express server and the react server
+#DevConnector
+A full stack web application that focuses on the MERN stack. This app was created as a social network for software developers. 
 
-if you are using a module within react then cd into client folder then install the module
+##Mern Stack
+MongoDB with Mongoose
+Express.js
+React.js
+Node.js
 
-classnames(npm module) = if certain something is true then add this class to it
-
-This is a full stack web application that focuses on the MERN stack. This app was created as a social network for software developers. 
+##Other technologies used
+Bootstrap
+Redux
+Gravatar
+Bcrypt
+BodyParser
+Validator
+Passport 
